@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+img{
+  border-radius: 50%;
+}
+table,tr,td,th{
+  margin: auto;
+  border-spacing: 5px;
+  padding: 20px;
+  border-collapse: collapse;
+  font-size: 20px;
+  justify-content: space-evenly;
+  height: 100%;
+  }
+table, tr,td,th{
+  align-items: center;
+  justify-content: space-evenly;
+}
+body{
+  background-image: url(./mountain-range-sunset-gradient-turquoise-wallpaper-thumb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Send Flowers', cursive;
+}
+h1{
+  align-items: center;
+  justify-self: center;
+  margin-left: 590px;
+}
